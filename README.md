@@ -20,17 +20,14 @@ To get started with this template, follow these steps:
 Install dependencies:
 
 bash
-
 npm install
 Run the development server:
 
 bash
-
 npm run dev
 Navigate to http://localhost:3000/ to see your application running. The application will automatically reload if you change any source files.
 
 🌿 Code Scaffolding
-
 Run the following command to generate a new component:
 
 bash
