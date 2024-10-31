@@ -54,7 +54,7 @@ ng generate module
 ## 📦 Building the Project
 Run ng build to build the project. The build artifacts will be stored in the dist/ directory.
 
-### 🧪 Running Unit Tests
+## 🧪 Running Unit Tests
 Run ng test to execute the unit tests via Karma.
 
 ## 🚀 Running End-to-End Tests
@@ -70,5 +70,3 @@ Happy coding! 🎉 If you have any questions or run into issues, feel free to re
 2. **Step-by-Step Instructions**: Added detailed steps for getting started.
 3. **Command Formatting**: Used code blocks to highlight commands and improve readability.
 4. **Consistent Structure**: Organized the sections for clarity.
-
-This should make your README.md file more comprehensive and engaging! Let me know if there's anything else you'd like to add. 🌟✨📄
