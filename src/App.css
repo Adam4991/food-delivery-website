@@ -1,0 +1,128 @@
+.App {
+  text-align: center; /* 🎯 */
+}
+
+header {
+  background-color: #4a4a4a; /* 🌑 */
+  color: white; /* ⚪️ */
+  padding: 10px 0; /* 📏 */
+}
+
+nav ul {
+  display: flex; /* 🛠️ */
+  list-style: none; /* 🚫 */
+  justify-content: center; /* 🧭 */
+}
+
+nav ul li {
+  margin: 0 15px; /* 📏 */
+  cursor: pointer; /* 👉 */
+}
+
+.menu-list {
+  display: flex; /* 🛠️ */
+  flex-wrap: wrap; /* 🧶 */
+  justify-content: center; /* 🎯 */
+  gap: 20px; /* 📏 */
+}
+
+.footer {
+  text-align: center; /* 🎯 */
+  margin-top: 20px; /* 📏 */
+  color: #ffa07a; /* 🍑 */
+  font-size: 1.2em; /* 🔠 */
+}
+
+
+.menu-item {
+  border: 1px solid #ddd; /* 🛡️ */
+  padding: 20px; /* 📏 */
+  margin: 15px; /* 📏 */
+  width: 250px; /* 📏 */
+  background-color: #f9f9f9; /* 🎨 */
+  border-radius: 10px; /* 🔘 */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 🌟 */
+  transition: transform 0.2s; /* ⏳ */
+}
+
+.menu-item:hover {
+  transform: scale(1.05); /* 🌟 */
+}
+
+.menu-item h3 {
+  font-size: 1.5em; /* 🔠 */
+  color: #333; /* 🎨 */
+}
+
+.menu-item p {
+  font-size: 1em; /* 🔠 */
+  color: #555; /* 🎨 */
+}
+
+.menu-item button {
+  border-radius: 5px; /* 🔘 */
+  border: none; /* 🚫 */
+  padding: 10px 20px; /* 🧸 */
+  font-size: 1em; /* 🔠 */
+  font-weight: bold; /* 💪 */
+  background-color: #ff6347; /* 🎨 */
+  color: #fff; /* 🎨 */
+  cursor: pointer; /* 🖱️ */
+  transition: background-color 0.3s, transform 0.3s; /* ⏳ */
+}
+
+.menu-item button:hover {
+  background-color: #ff4500; /* 🎨 */
+  transform: scale(1.1); /* 🌟 */
+}
+
+.cart {
+  background-color: #fff5e1; /* 🌅 */
+  padding: 20px; /* 📏 */
+  margin: 20px; /* 📏 */
+  border-radius: 10px; /* 🔘 */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 🌟 */
+}
+
+.cart h2 {
+  color: #ff6347; /* 🍅 */
+  font-size: 2em; /* 🔠 */
+}
+
+.cart ul {
+  list-style: none; /* 🚫 */
+  padding: 0; /* 🧼 */
+}
+
+.cart ul li {
+  display: flex; /* 🛠️ */
+  justify-content: space-between; /* 🎯 */
+  align-items: center; /* 🎯 */
+  background-color: #fff; /* 🎨 */
+  padding: 10px; /* 🧸 */
+  border: 1px solid #ddd; /* 🛡️ */
+  margin-bottom: 10px; /* 📏 */
+  border-radius: 5px; /* 🔘 */
+}
+
+.cart ul li button {
+  border-radius: 5px; /* 🔘 */
+  border: none; /* 🚫 */
+  padding: 5px 10px; /* 🧸 */
+  font-size: 0.9em; /* 🔠 */
+  background-color: #ff6347; /* 🍅 */
+  color: #fff; /* 🎨 */
+  cursor: pointer; /* 🖱️ */
+  transition: background-color 0.3s, transform 0.3s; /* ⏳ */
+}
+
+.cart ul li button:hover {
+  background-color: #ff4500; /* 🔥 */
+  transform: scale(1.05); /* 🌟 */
+}
+
+.cart h3 {
+  color: #333; /* 🎨 */
+  font-size: 1.5em; /* 🔠 */
+  margin-top: 20px; /* 📏 */
+}
