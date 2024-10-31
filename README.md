@@ -21,17 +21,16 @@ Install dependencies:
 
 bash
 
-Copy
 npm install
 Run the development server:
 
 bash
 
-Copy
 npm run dev
 Navigate to http://localhost:3000/ to see your application running. The application will automatically reload if you change any source files.
 
 🌿 Code Scaffolding
+
 Run the following command to generate a new component:
 
 bash
