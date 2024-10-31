@@ -17,23 +17,23 @@ To get started with this template, follow these steps:
    ```bash
    git clone https://github.com/your-repo/react-vite-template
    cd react-vite-template
-Install dependencies:
-
-bash
-npm install
-Run the development server:
-
-bash
-npm run dev
-Navigate to http://localhost:3000/ to see your application running. The application will automatically reload if you change any source files.
+   
+2. **Install dependencies:**
+   ```bash
+   npm install
+   
+3. **Run the development server:**
+   ```bash
+   npm run dev
+   
+4. **Navigate to http://localhost:3000/ to see your application running. The application will automatically reload if you change any source files.**
 
 🌿 Code Scaffolding
 Run the following command to generate a new component:
 
-bash
-
-Copy
-ng generate component component-name
+    ```bash
+    ng generate component component-name
+     
 You can also use:
 
 ng generate directive
