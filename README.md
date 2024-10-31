@@ -64,9 +64,3 @@ Run ng e2e to execute the end-to-end tests via a platform of your choice. To use
 To get more help on the Angular CLI, use ng help or check out the Angular CLI Overview and Command Reference page.
 
 Happy coding! 🎉 If you have any questions or run into issues, feel free to reach out. 🚀✨
-
-### Enhancements:
-1. **Sections with Emojis**: Improved the readability and engagement with emojis.
-2. **Step-by-Step Instructions**: Added detailed steps for getting started.
-3. **Command Formatting**: Used code blocks to highlight commands and improve readability.
-4. **Consistent Structure**: Organized the sections for clarity.
