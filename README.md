@@ -28,7 +28,7 @@ To get started with this template, follow these steps:
    
 4. **Navigate to http://localhost:3000/ to see your application running. The application will automatically reload if you change any source files.**
 
-🌿 Code Scaffolding
+## 🌿 Code Scaffolding
 Run the following command to generate a new component:
     
     ng generate component component-name
