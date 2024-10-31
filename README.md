@@ -35,21 +35,21 @@ To get started with this template, follow these steps:
      
 **You can also use:**
 
-ng generate directive
+    ng generate directive
 
-ng generate pipe
+    ng generate pipe
 
-ng generate service
+    ng generate service
 
-ng generate class
+    ng generate class
 
-ng generate guard
+    ng generate guard
 
-ng generate interface
+    ng generate interface
 
-ng generate enum
+    ng generate enum
 
-ng generate module
+    ng generate module
 
 ## 📦 Building the Project
 Run ng build to build the project. The build artifacts will be stored in the dist/ directory.
