@@ -30,8 +30,7 @@ To get started with this template, follow these steps:
 
 🌿 Code Scaffolding
 Run the following command to generate a new component:
-
-    ```bash
+    
     ng generate component component-name
      
 You can also use:
@@ -52,16 +51,16 @@ ng generate enum
 
 ng generate module
 
-📦 Building the Project
+## 📦 Building the Project
 Run ng build to build the project. The build artifacts will be stored in the dist/ directory.
 
-🧪 Running Unit Tests
+### 🧪 Running Unit Tests
 Run ng test to execute the unit tests via Karma.
 
-🚀 Running End-to-End Tests
+## 🚀 Running End-to-End Tests
 Run ng e2e to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-📚 Further Help
+## 📚 Further Help
 To get more help on the Angular CLI, use ng help or check out the Angular CLI Overview and Command Reference page.
 
 Happy coding! 🎉 If you have any questions or run into issues, feel free to reach out. 🚀✨
